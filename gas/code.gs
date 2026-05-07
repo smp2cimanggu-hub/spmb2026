@@ -22,9 +22,6 @@ const DEFAULT_FORM_FIELDS = [
   { id: "Alamat", label: "Alamat Lengkap", type: "textarea", required: true },
   { id: "Nama Orang Tua", label: "Nama Orang Tua/Wali", type: "text", required: true },
   { id: "No HP", label: "No. WhatsApp Aktif", type: "text", required: true },
-  { id: "NR", label: "RATA RATA RAPORT", type: "text", required: true },
-  { id: "TKA", label: "Nilai SHTKA", type: "text", required: true },
-  { id: "JARAK", label: "JARAK", type: "text", required: true },
   { id: "Foto Siswa", label: "Pas Foto 3x4", type: "file", required: true },
   { id: "Kartu Keluarga", label: "Kartu Keluarga", type: "file", required: true },
   { id: "Akta Kelahiran", label: "Akta Kelahiran", type: "file", required: true }
